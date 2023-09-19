@@ -29,6 +29,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    height: 100vh;
 }
 
 .container {
@@ -44,7 +45,7 @@ body {
     border-radius: 14px;
     padding: 15px;
     max-width: 295px;
-    max-height: 590px;
+    max-height: 700px;
 }
 
 .card_wrapper > .image_wrapper {
