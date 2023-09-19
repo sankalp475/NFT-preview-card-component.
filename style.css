@@ -123,7 +123,7 @@ body {
 }
 
 .info_box > .value > .etheriam::before {
-    content: url(/images/icon-ethereum.svg);
+    content: url(images/icon-ethereum.svg);
     display: flex;
     align-items: center;
     padding-right: 5px;
@@ -135,7 +135,7 @@ body {
 }
 
 .info_box > .value > .time::before {
-   content: url(/images/icon-clock.svg);
+   content: url(images/icon-clock.svg);
    display: flex;
    align-items: center;
    padding-right: 5px;
